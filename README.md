@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ---
 layout: splash
@@ -36,3 +37,6 @@ feature_row:
 ---
 
 {% include feature_row %}
+=======
+# Mecatl
+>>>>>>> parent of d410703... Added Theme

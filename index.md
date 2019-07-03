@@ -1,15 +1,36 @@
 ---
-title: "Sample Page"
-permalink: /sample-page/
-date: 2016-02-24T03:02:20+00:00
+layout: home
+excerpt: "Making stuff one mistake at a time."
+section:
+  - title: "A faux pas"
+    class: "section__inverse section__about"
+    image: /assets/images/michael-rose-glitched-feature.jpg
+    introduction: |
+      I'm just another boring, tattooed, *time traveling designer* from Buffalo New York. I enjoy eating chicken wings, sketching on an iPad Pro, and playing console games.
+    actions:
+      - label: "about Michael →"
+        url: "/about/"
+  - title: "Writing"
+    class: "section__inverse section__articles"
+    image: /assets/images/blog-articles.jpg
+    introduction: |
+      A collection of thoughts, inspiration, mistakes, and other minutia I've written. Topics covered include [*web development*](tag/web-development/), [*Jekyll tutorials*](/tag/jekyll/), [*Mastering Paper*](/mastering-paper/), [*design*](/tag/design/), [#TIL](/tag/til/), and [more](/tag/).
+    actions:
+      - label: "the archives →"
+        url: "/articles/"
+  - title: "Works"
+    class: "section__inverse section__work"
+    image: /assets/images/procreate-paintings-glitched-feature.jpg
+    introduction: |
+      A hand-picked selection of things I've designed, illustrated, and developed.
+    actions:
+      - label: "see more →"
+        url: "/work/"
+image:
+  facebook: "/assets/images/android-chrome-384x384.png"
+  twitter: "/assets/images/android-chrome-384x384.png"
+twitter:
+  card: summary
+date: 2016-08-26
+last_modified_at: 2019-02-16T10:21:51-05:00
 ---
-
-This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
-
-> Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi'a coladas. (And gettin' caught in the rain.)
-
-...or something like this:
-
-> The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.
-
-You should probably delete this page and create new pages for your content. Have fun!
